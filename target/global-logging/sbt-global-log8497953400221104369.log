@@ -1,0 +1,11 @@
+[debug] > Exec(all {file:/H:/Desktop/Scala/X-sentiments-analyse/}root/products {file:/H:/Desktop/Scala/X-sentiments-analyse/}root/test:products, None, None)
+[debug] Evaluating tasks: Compile / products, Test / products
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to H:\Desktop\Scala\X-sentiments-analyse\target\scala-2.12\classes ...
+[info] Non-compiled module 'compiler-bridge_2.12' for Scala 2.12.7. Compiling...
+[info]   Compilation completed in 10.012s.
+[info] done compiling
+[success] Total time: 19 s, completed Jan 7, 2025 11:36:48 PM
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)
