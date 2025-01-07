@@ -1,5 +1,5 @@
-[debug] Created transactional ClassFileManager with tempDir = H:\Desktop\Scala\UVT-SENTIMENT-ANALYSIS\project\target\scala-2.12\sbt-1.0\classes.bak
+[debug] Created transactional ClassFileManager with tempDir = H:\Desktop\Scala\X-sentiments-analyse\project\target\scala-2.12\sbt-1.0\classes.bak
 [debug] About to delete class files:
 [debug] We backup class files:
-[debug] Created transactional ClassFileManager with tempDir = H:\Desktop\Scala\UVT-SENTIMENT-ANALYSIS\project\target\scala-2.12\sbt-1.0\classes.bak
-[debug] Removing the temporary directory used for backing up class files: H:\Desktop\Scala\UVT-SENTIMENT-ANALYSIS\project\target\scala-2.12\sbt-1.0\classes.bak
+[debug] Created transactional ClassFileManager with tempDir = H:\Desktop\Scala\X-sentiments-analyse\project\target\scala-2.12\sbt-1.0\classes.bak
+[debug] Removing the temporary directory used for backing up class files: H:\Desktop\Scala\X-sentiments-analyse\project\target\scala-2.12\sbt-1.0\classes.bak
