@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.CountVectorizerModel","timestamp":1732545612934,"sparkVersion":"2.4.0","uid":"cntVec_88e2f0c37983","paramMap":{"vocabSize":10000,"outputCol":"Gram Vector","inputCol":"Grams"},"defaultParamMap":{"binary":false,"maxDF":9.223372036854776E18,"vocabSize":262144,"minDF":1.0,"minTF":1.0,"outputCol":"cntVec_88e2f0c37983__output"}}
